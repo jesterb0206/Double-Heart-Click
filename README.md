@@ -15,11 +15,11 @@
 
 <br>
 
-![Double Heart Click]()
+![Double Heart Click](images/double-click-heart.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Double-Heart-Click/)
 
 <br>
 
